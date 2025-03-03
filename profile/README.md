@@ -1,5 +1,9 @@
 # My Publications Related to the DC-AC Converter
 
+## Description
+
+This organization is managed by Dr.-Ing. Yohan Fajar Sidik. 
+
 ## PWM Rectifier (AC-DC Converter)
 
 ### Proceedings
