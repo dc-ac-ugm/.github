@@ -12,7 +12,7 @@ This organization is managed by Dr.-Ing. Yohan Fajar Sidik.
 | ---  | ---       | ---   |
 | 2023 | ISRITI    | [IGBT Losses Analysis of a Three-Phase Rectifier Converter on Hybrid Train ](https://ieeexplore-ieee-org.ezproxy.ugm.ac.id/document/10467279) |
 | 2023 | ICSGTEIS  | [Design of Controller Area Network (CAN) Communication for PWM Rectifier Control Hybrid Train](https://ieeexplore-ieee-org.ezproxy.ugm.ac.id/document/10424115) |
-| 2023 | ICITEE    | [PWM Rectifier Impedance Modeling for the UGM-INKA Hybrid Train]([https://ieeexplore.ieee.org/abstract/document/10317765](https://ieeexplore-ieee-org.ezproxy.ugm.ac.id/document/10317765)) |
+| 2023 | ICITEE    | [PWM Rectifier Impedance Modeling for the UGM-INKA Hybrid Train](https://ieeexplore-ieee-org.ezproxy.ugm.ac.id/document/10317765) |
 | 2023 | ICITEE    | [Droop Control Strategy of Controlled Three-Phase PWM Rectifier for Hybrid Train Propulsion](https://ieeexplore-ieee-org.ezproxy.ugm.ac.id/document/10317653)
 
 ## Inverter (DC-AC Converter)
